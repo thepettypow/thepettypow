@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929292&random=false&width=435&lines=In+Love+With+Linux%2C+Coding%2C+Hacking;And+DevOps+Stuff.)](https://git.io/typing-svg)
+
 <!--
 **thepettypow/thepettypow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
