@@ -1,6 +1,6 @@
 # thepettypow
 
-**Sometime Dev Sometime Ops and Sometime Both.**
+**Sometimes Dev Sometimes Ops and Sometimes Both.**
 
 Usually I present myself as a devops or backend developer but in fact I will like every stack except frontend and all graphical stuff out there.
 
