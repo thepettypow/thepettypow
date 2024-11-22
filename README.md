@@ -1,7 +1,27 @@
 # thepettypow
 
-**Sometimes Dev Sometimes Ops and Sometimes Both.**
+Just a guy with lots of dreams for the future.
+Interested in AI stuff, Engineering, Music and recently cars.
 
-Usually I present myself as a devops or backend developer but in fact I will like every stack except frontend and all graphical stuff out there.
+---
 
-Now Days I'm using python for my project but I would like to use go, rust and more fun stuff to improve my skills.
+### Langueges I worked with:
+
+- Python
+- ruby
+- JavaScript (a little)
+
+### Frameworks I worked with:
+
+- Django
+- Flask
+- FASTAPI
+- rails
+- nestJS
+- nodeJS
+
+### DataBases I workes with:
+
+- sqlite
+- MySQL
+- MongoDB
