@@ -8,6 +8,7 @@ Interested in AI stuff, Engineering, Music and recently cars.
 ### Langueges I worked with:
 
 - Python
+- Go
 - ruby
 - JavaScript (a little)
 
