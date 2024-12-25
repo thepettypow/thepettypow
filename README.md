@@ -17,12 +17,12 @@ Interested in AI stuff, Engineering, Music and recently cars.
 - Django
 - Flask
 - FASTAPI
-- rails
-- nestJS
-- nodeJS
+- TensotFlow
+- OpenCV
 
 ### DataBases I workes with:
 
 - sqlite
 - MySQL
 - MongoDB
+- Redis
