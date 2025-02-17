@@ -1,26 +1,27 @@
 # thepettypow
 
 Just a guy with lots of dreams for the future.
-Interested in AI stuff, Engineering, Music and recently cars.
+Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, ML sutff, Music and that's it.
 
 ---
 
+### Knowledge:
+
+- OWASP Top 10
+- LPIC 1,2 (self taught - no cert)
+- Bug Bounty Hunting (not much)
+- Design Automation Systems
+
 ### Langueges I worked with:
 
-- Python
+- Python (main)
 - Go
-- ruby
-- JavaScript (a little)
+- ruby (used in security research)
+- nodeJS (used in security research)
+- rust (just for fun)
 
-### Frameworks I worked with:
 
-- Django
-- Flask
-- FASTAPI
-- TensotFlow
-- OpenCV
-
-### DataBases I workes with:
+### DataBases I worked with:
 
 - sqlite
 - MySQL
