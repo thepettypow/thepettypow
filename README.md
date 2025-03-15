@@ -31,6 +31,7 @@ Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, Music an
 - Redis
 
 
-### Things I hate;
+### Things I hate:
+
 - Front-End Stuff
 - WordPress
