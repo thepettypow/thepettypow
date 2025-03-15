@@ -1,7 +1,7 @@
 # thepettypow
 
-Just a guy with lots of dreams for the future.
-Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, ML sutff, Music and that's it.
+Just a guy with lots of dreams.
+Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, Music and another things.
 
 ---
 
@@ -11,6 +11,7 @@ Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, ML sutff
 - LPIC 1,2 (self taught - no cert)
 - Bug Bounty Hunting (not much)
 - Design Automation Systems
+- Some Back-End Stuff With Django, Flask and Go
 
 ### Langueges I worked with:
 
@@ -25,5 +26,11 @@ Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, ML sutff
 
 - sqlite
 - MySQL
+- MariaDB
 - MongoDB
 - Redis
+
+
+### Things I hate;
+- Front-End Stuff
+- WordPress
