@@ -18,7 +18,7 @@ Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, Music an
 - Python (main)
 - Go
 - ruby (used in security research)
-- nodeJS (used in security research)
+- JS (used in security research | was a nightmare)
 - rust (just for fun)
 
 
