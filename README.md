@@ -5,6 +5,12 @@ Interested in CyberSecurity including Web Hacking, Linux, DevOps stuff, Music an
 
 ---
 
+### Currently Learning:
+
+- DevOps Things
+- Some Algorithms
+
+
 ### Knowledge:
 
 - OWASP Top 10
