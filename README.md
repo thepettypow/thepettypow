@@ -39,8 +39,5 @@ Just a tech guy.
 
 ### Things I hate:
 
-- WordPress
-- Fron-end Stuff
-
 - Front-End Stuff
 - WordPress
