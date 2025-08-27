@@ -6,7 +6,6 @@ Just a tech guy.
 
 ### Currently Learning:
 
-- DevOps Things
 - Some Algorithms
 - C, Embedded Systems
 
